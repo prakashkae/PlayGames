@@ -55,7 +55,7 @@ public class PlayGames : MonoBehaviour
     {
         if (Social.Active.localUser.authenticated)
         {
-            paltform.ShowAchievementsUI();
+            platform.ShowAchievementsUI();
         }
     }
 
